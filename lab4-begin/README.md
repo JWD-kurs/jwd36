@@ -27,7 +27,7 @@ podataka bude perzistentna.
 
 ----
 
-* Izvršiti MySQL skriptu za pražnjenje baze podataka (`jwd` zameniti svojim nalogom):
+* Izvršiti MySQL skriptu za pražnjenje baze podataka:
 
 ```sql
 CREATE USER IF NOT EXISTS jwduser IDENTIFIED BY 'pass';
